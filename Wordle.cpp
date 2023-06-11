@@ -1,5 +1,3 @@
-// pnemonoultramicroscopicsilicovolcanoconosis
-// wow that's a very long word!
 #include <iostream>
 #include <fstream> //access files
 #include <stdlib.h>
